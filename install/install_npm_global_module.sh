@@ -1,4 +1,5 @@
 npm install -g coffee-script
+npm install -g cordova
 npm install -g docco
 npm install -g express
 npm install -g grunt
